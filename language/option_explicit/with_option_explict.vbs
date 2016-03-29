@@ -1,0 +1,3 @@
+option explicit
+
+msgBox foo
